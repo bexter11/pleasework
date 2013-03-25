@@ -12,3 +12,11 @@ happy about this github thing. There is an option for text wrapping (even though
 mouse is accounted for in the design (I can click to move the cursor!!)!! Some bad things now. New things frighten me. 
 I don't like the unknown, and I don't like to depend on people, unless it's something I really don't care about. I do 
 like learning new things, but maybe not under so much pressure. Ok, enough time has passed. Let's go...
+
+
+Well, a couple hours later and it's still not working. Oh, and the X11 forwarding isn't working either. So as we can 
+see, it's been a very productive day. This is literally all I have to show for it. Oh well, at least I know how to 
+code. Technology may always give me grief, but logic is my best friend. I may not be able to effectively use other 
+people's creations, but my babies work and they are my pride and joy. See ya later github. As of right now, this here
+is my favorite feature (which isn't saying much since even wordpad has more features.) Good Night... wait I take that 
+back...Night.
